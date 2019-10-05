@@ -3,7 +3,7 @@ Machine Learning, Regression Modeling, Data Cleaning, Exploratory Data Analysis
 
 # Data Description:
 Dataset comes from Kaggle's Inclass Prediction Competition, 2018 and can downloaded from https://www.kaggle.com/c/qbus6810-s1-18/overview.
-Property prices are dependent on location and how close are they to the tourist attraction places. Based on location, we predict the price of AirBnB property using regression and RSME is the metric of evaluation. 
+Property prices are dependent on location and how close are they to the tourist attraction places. We predict the price of AirBnB property using regression and RSME is the metric of evaluation. 
 
 # Process:
 * Perfrom feature engineering, data cleaning and Exploratory Data Analysis deem necessary.
