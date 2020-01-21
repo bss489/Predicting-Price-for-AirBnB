@@ -1,4 +1,4 @@
-# Predicting-Price-for-Airbn
+# Predicting-Price-for-Airbnb
 Machine Learning, Regression Modeling, Data Cleaning, Exploratory Data Analysis
 
 # Data Description:
